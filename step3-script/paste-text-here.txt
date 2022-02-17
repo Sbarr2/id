@@ -1,13 +1,20 @@
 This will be my tagline:
 
+Professional and straightforward yet fun and pleasant designs.
+
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
 
+Welcome to my page my name is Sean Barr and I am pursuing a career in Ux Design. I am currently obtaining an associate in science degree in multimedia technologies. This portfolio site is to show my abilities and what I can do with my skills. My degree is concentrated in web design and development. I am a strong believer in more standard styled professional web pages with a dash of fun applied to them. I believe my strengths are styling and identifying and applying audencies. While also having a good idea how to apply certain aesthetics a client might want and applying them. I also have lots of experience coding and some front end development. I am also a strong believer in applying subtle accents to my work to not overbare a project with them but to bring out the entirety of my work. So I hope you enjoy my portfolio page and all the content on it.
+
+
+
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
+Title & Type of Site: Astonishing Antiques E-Commerce Website
+Talent Showcased: Design, Front-end Development, Interactivity
+Objective: Purchase and browsing antiques
+Target Audience: Males and Females, adults and elderly
 Highlights: 
-1)
-2)
-3)
+1)Color design features both blue and gold with gold representing a refined fancy taste while the blue compliments it with younger fresh feelings.
+2)Interactive pages help you navigate and get details about products and. easily adding it to your cart.
+3)The page structure at full screen has 2 rows of 5 products but when shrunk down its responsive and shrinks down the columns for easy reading.
+4)The logo featured was also designed by me and while being fun yet professional it could be used to bring in younger customers.
