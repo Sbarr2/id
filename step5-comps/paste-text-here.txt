@@ -1,1 +1,15 @@
 Paste all the body copy from your style comps here:
+Talent Showcased:  
+Design, Front-end Development, Interactivity
+
+Objective:  
+Purchase and browsing antiques
+
+Target Audience:  
+Males and Females, adults and elderly
+
+Highlights: 
+• Color design features both blue and gold with gold representing a refined fancy taste while the blue compliments it with younger fresh feelings.
+• Interactive pages help you navigate and get details about products and. easily adding it to your cart.
+• The page structure at full screen has 2 rows of 5 products but when shrunk down its responsive and shrinks down the columns for easy reading.
+• The logo featured was also designed by me and while being fun yet professional it could be used to bring in younger customers.
